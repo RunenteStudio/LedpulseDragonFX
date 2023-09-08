@@ -1,3 +1,7 @@
+//  Simplex 4D Noise 
+//  by Ian McEwan, Ashima Arts
+//
+
 #define inf 1000000.0
 #define M_PI 3.1415926
 
