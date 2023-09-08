@@ -22,7 +22,7 @@ Creates a 3D Texture gradient based on a point (radial), an axis (linear) or a v
 
 ### Noise 4D
 
-Patricio Gonzalez Vivo implementation of simplex noise made by Ian McEwan with some modifications to sync or offset the 3 channels creating various effects.
+[Patricio Gonzalez Vivo implementation](https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83#simplex-noise) of simplex noise made by Ian McEwan with some modifications to sync or offset the 3 channels creating various effects.
 
 ## Processing
 
@@ -35,7 +35,7 @@ The red channel outputs the expected result while the green channel shows the nu
 
 ### Render
 
-This node uses the HSL to RGB code by Iñigo Quilez to give color to the processed image.
+This node uses the [HSL to RGB code by Iñigo Quilez](https://www.shadertoy.com/view/MsS3Wc) to give color to the processed image.
 
 ### Simple blend
 
