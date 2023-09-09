@@ -49,6 +49,12 @@ Nodes used to add more effects to the 3D texture.
 This node blurs and comps 3D textures. It’s main use was to be mixed with the Feedback node to give the geometries a 3D trail and glow. In future iterations the blur method is intended to be used as a Moore neighborhood for 3D cellular automata.
 The red channel outputs the expected result while the green channel shows the number of neighbors the pixel has, creating some other interesting effects, similar to a tridimensional fresnel.
 
+
+
+https://github.com/RunenteStudio/LedpulseDragonFX/assets/95254298/4c35d831-84ae-4688-b1d9-ad9988070850
+
+
+
 ### Render
 
 This node uses the [HSL to RGB code by Iñigo Quilez](https://www.shadertoy.com/view/MsS3Wc) to give color to the processed image.
@@ -59,3 +65,9 @@ Inside the code there’s methods for 3 blending modes:
 + Over
 + Add
 + Multiply
+
+
+
+https://github.com/RunenteStudio/LedpulseDragonFX/assets/95254298/bf948073-18e9-4d48-84df-6094e7b5d960
+
+
